@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; TestingForms</title>
-	<atom:link href="https://faiizanhussain.github.io/TestingForms/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>TestingForms</title>
+	<atom:link href="https://faiizanhussain.github.io/TestingForms/feed/" rel="self" type="application/rss+xml" />
 	<link>https://faiizanhussain.github.io/TestingForms/</link>
 	<description></description>
 	<lastBuildDate>Tue, 19 Dec 2023 15:28:57 +0000</lastBuildDate>
